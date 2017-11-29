@@ -1,0 +1,7 @@
+C:\Users\Bill\Documents\Visual Studio 2017\Projects\LockedDownTest\LockedDownTest\bin\Debug\LockedDownTest.exe.config
+C:\Users\Bill\Documents\Visual Studio 2017\Projects\LockedDownTest\LockedDownTest\bin\Debug\LockedDownTest.exe
+C:\Users\Bill\Documents\Visual Studio 2017\Projects\LockedDownTest\LockedDownTest\bin\Debug\LockedDownTest.pdb
+C:\Users\Bill\Documents\Visual Studio 2017\Projects\LockedDownTest\LockedDownTest\obj\Debug\LockedDownTest.csprojResolveAssemblyReference.cache
+C:\Users\Bill\Documents\Visual Studio 2017\Projects\LockedDownTest\LockedDownTest\obj\Debug\LockedDownTest.csproj.CoreCompileInputs.cache
+C:\Users\Bill\Documents\Visual Studio 2017\Projects\LockedDownTest\LockedDownTest\obj\Debug\LockedDownTest.exe
+C:\Users\Bill\Documents\Visual Studio 2017\Projects\LockedDownTest\LockedDownTest\obj\Debug\LockedDownTest.pdb
